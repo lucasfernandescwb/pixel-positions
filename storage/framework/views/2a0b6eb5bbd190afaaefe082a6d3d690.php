@@ -1,0 +1,2 @@
+<button <?php echo e($attributes(['class' => 'bg-blue-800 rounded py-2 px-6 font-bold cursor-pointer transition-opacity duration-300 hover:opacity-75'])); ?>><?php echo e($slot); ?></button>
+<?php /**PATH C:\Users\xroso\Herd\pixel-positions\resources\views/components/forms/button.blade.php ENDPATH**/ ?>
